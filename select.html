@@ -40,6 +40,7 @@
                     cookieData=getCookie("submits");
                     if(cookieData==""){cookieData="[]";}
                     cookieJson=JSON.parse(cookieData);
+                    document.getElementById(`s${n}`).style.color="#61892f";
                 }
                 if(cookieJson.includes(n)===false){
                     surveyNum=n;
