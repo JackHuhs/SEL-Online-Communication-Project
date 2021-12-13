@@ -41,6 +41,7 @@
                     if(cookieData==""){cookieData="[]";}
                     cookieJson=JSON.parse(cookieData);
                     document.getElementById(`s${n}`).style.color="#61892f";
+                    alert("You can't complete a survey twice!");
                 }
                 if(cookieJson.includes(n)===false){
                     surveyNum=n;
