@@ -1,1 +1,77 @@
-
+const qstor=[[/*all the data for the prompts and buttons; [0]=questions, [1]=answers*/
+    "What tone does \"OK!\" convey?",
+    "What tone does all capital letters convey?",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+],[[
+    "Sarcastic",
+    "Annoyed",
+    "Excited"
+],[
+    "Annoyed",
+    "Excited",
+    "Angry"
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+],[
+    "",
+    "",
+    ""
+]]];
