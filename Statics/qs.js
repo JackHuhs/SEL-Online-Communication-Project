@@ -1,19 +1,14 @@
-const qstor=[[/*all the data for the prompts and buttons; [0]=questions, [1]=answers*/
+const qstor=[[/*all the data for the prompts and buttons; [0]=questions=[x15], [1]=answers=[[x3]x15]*/
     "Do emoticons/emojis communicate emotion well?",
     "What tone does using all capital letters most often convey?",
     "Does punctuation convey tone well?",
     "Which is the best way (of the options below) to convey tone?",
     "Do <i>italics</i> and <b>bold text</b> communicate tone well?",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "If you were trying to say “sure” to simply affirm someone else's message, which of the below options would communicate that the best?",
+    "Which one below is closest to how you type “hello?”",
+    "Should you resolve conflicts in text?",
+    "Do you think online communication in the form of texting is beneficial to friend groups?",
     "What tone does “OK!” most often convey?",
-    "Did you like the website?"
+    "If you were trying to say “sure” to simply affirm someone else's message, which of the below options would communicate that the best?"
 ],[[
     "Yes",
     "No",
@@ -35,43 +30,23 @@ const qstor=[[/*all the data for the prompts and buttons; [0]=questions, [1]=ans
     "No",
     "Sometimes"
 ],[
-    "",
-    "",
-    ""
+    "Hi",
+    "Hey",
+    "Other"
 ],[
-    "",
-    "",
-    ""
+    "Yes",
+    "No",
+    "Sometimes"
 ],[
-    "",
-    "",
-    ""
-],[
-    "",
-    "",
-    ""
-],[
-    "",
-    "",
-    ""
-],[
-    "",
-    "",
-    ""
-],[
-    "",
-    "",
-    ""
-],[
-    "sure!",
-    "sure",
-    "<i>sure</i>"
+    "Yes",
+    "No",
+    "To a point"
 ],[
     "Sarcastic",
     "Annoyed",
     "Excited"
 ],[
-    "Yes!",
-    "Of course!",
-    "It was amazing!"
+    "sure!",
+    "sure",
+    "<i>sure</i>"
 ]]];
